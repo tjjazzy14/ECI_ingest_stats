@@ -1,0 +1,385 @@
+Seasonality*,Series,Ownership,Measure,Labstat_code
+SA,All workers,Civilian,Total compensation,CIS1010000000000I
+SA,All workers,Civilian,Total compensation,CIS1010000000000Q
+SA,Manufacturing,Civilian,Total compensation,CIS1013000000000I
+SA,Manufacturing,Civilian,Total compensation,CIS1013000000000Q
+SA,Education and health services,Civilian,Total compensation,CIS1016000000000I
+SA,Education and health services,Civilian,Total compensation,CIS1016000000000Q
+SA,Education services,Civilian,Total compensation,CIS1016100000000I
+SA,Education services,Civilian,Total compensation,CIS1016100000000Q
+SA,Elementary and secondary schools,Civilian,Total compensation,CIS1016110000000I
+SA,Elementary and secondary schools,Civilian,Total compensation,CIS1016110000000Q
+SA,"Junior colleges, colleges, and universities",Civilian,Total compensation,CIS1016120000000I
+SA,"Junior colleges, colleges, and universities",Civilian,Total compensation,CIS1016120000000Q
+SA,Health care and social assistance,Civilian,Total compensation,CIS1016200000000I
+SA,Health care and social assistance,Civilian,Total compensation,CIS1016200000000Q
+SA,Hospitals,Civilian,Total compensation,CIS1016220000000I
+SA,Hospitals,Civilian,Total compensation,CIS1016220000000Q
+SA,Nursing and residential care facilities,Civilian,Total compensation,CIS1016230000000I
+SA,Nursing and residential care facilities,Civilian,Total compensation,CIS1016230000000Q
+SA,Public administration,Civilian,Total compensation,CIS1019200000000I
+SA,Public administration,Civilian,Total compensation,CIS1019200000000Q
+SA,Service-providing industries,Civilian,Total compensation,CIS101S000000000I
+SA,Service-providing industries,Civilian,Total compensation,CIS101S000000000Q
+SA,All workers,Civilian,Wages and salaries,CIS1020000000000I
+SA,All workers,Civilian,Wages and salaries,CIS1020000000000Q
+SA,Education services,Civilian,Wages and salaries,CIS1026100000000I
+SA,Education services,Civilian,Wages and salaries,CIS1026100000000Q
+SA,Elementary and secondary schools,Civilian,Wages and salaries,CIS1026110000000I
+SA,Elementary and secondary schools,Civilian,Wages and salaries,CIS1026110000000Q
+SA,Health care and social assistance,Civilian,Wages and salaries,CIS1026200000000I
+SA,Health care and social assistance,Civilian,Wages and salaries,CIS1026200000000Q
+SA,Hospitals,Civilian,Wages and salaries,CIS1026220000000I
+SA,Hospitals,Civilian,Wages and salaries,CIS1026220000000Q
+SA,Nursing and residential care facilities,Civilian,Wages and salaries,CIS1026230000000I
+SA,Nursing and residential care facilities,Civilian,Wages and salaries,CIS1026230000000Q
+SA,Public administration,Civilian,Wages and salaries,CIS1029200000000I
+SA,Public administration,Civilian,Wages and salaries,CIS1029200000000Q
+SA,Goods-producing industries,Civilian,Wages and salaries,CIS102G000000000I
+SA,Goods-producing industries,Civilian,Wages and salaries,CIS102G000000000Q
+SA,Service-providing industries,Civilian,Wages and salaries,CIS102S000000000I
+SA,Service-providing industries,Civilian,Wages and salaries,CIS102S000000000Q
+SA,All workers,Civilian,Total benefits,CIS1030000000000I
+SA,All workers,Civilian,Total benefits,CIS1030000000000Q
+SA,Construction,Private,Total compensation,CIS2012300000000I
+SA,Construction,Private,Total compensation,CIS2012300000000Q
+SA,Manufacturing,Private,Total compensation,CIS2013000000000I
+SA,Manufacturing,Private,Total compensation,CIS2013000000000Q
+SA,Durables,Private,Total compensation,CIS2013200000000I
+SA,Durables,Private,Total compensation,CIS2013200000000Q
+SA,Utilities,Private,Total compensation,CIS2014400000000I
+SA,Finance and insurance,Private,Total compensation,CIS2015200000000I
+SA,Finance and insurance,Private,Total compensation,CIS2015200000000Q
+SA,Real estate and rental and leasing,Private,Total compensation,CIS2015300000000I
+SA,Real estate and rental and leasing,Private,Total compensation,CIS2015300000000Q
+SA,Education services,Private,Total compensation,CIS2016100000000I
+SA,"Junior colleges, colleges, and universities",Private,Total compensation,CIS2016120000000I
+SA,"Junior colleges, colleges, and universities",Private,Total compensation,CIS2016120000000Q
+SA,Goods-producing industries,Private,Total compensation,CIS201G000000000I
+SA,Goods-producing industries,Private,Total compensation,CIS201G000000000Q
+SA,All workers,Private,Wages and salaries,CIS2020000000000I
+SA,All workers,Private,Wages and salaries,CIS2020000000000Q
+SA,Construction,Private,Wages and salaries,CIS2022300000000I
+SA,Construction,Private,Wages and salaries,CIS2022300000000Q
+SA,Credit intermediation and related activities,Private,Wages and salaries,CIS2025220000000I
+SA,Credit intermediation and related activities,Private,Wages and salaries,CIS2025220000000Q
+SA,Administrative and support and waste management and remediation services,Private,Wages and salaries,CIS2025600000000I
+SA,Education services,Private,Wages and salaries,CIS2026100000000I
+SA,Education services,Private,Wages and salaries,CIS2026100000000Q
+SA,"Junior colleges, colleges, and universities",Private,Wages and salaries,CIS2026120000000I
+SA,"Junior colleges, colleges, and universities",Private,Wages and salaries,CIS2026120000000Q
+SA,Health care and social assistance,Private,Wages and salaries,CIS2026200000000I
+SA,Health care and social assistance,Private,Wages and salaries,CIS2026200000000Q
+SA,Goods-producing industries,Private,Wages and salaries,CIS202G000000000I
+SA,Goods-producing industries,Private,Wages and salaries,CIS202G000000000Q
+SA,"Management, professional, and related",Private,Total benefits,CIS2030000100000I
+SA,"Management, professional, and related",Private,Total benefits,CIS2030000100000Q
+SA,"Natural resources, construction, and maintenance",Private,Total benefits,CIS2030000400000I
+SA,"Natural resources, construction, and maintenance",Private,Total benefits,CIS2030000400000Q
+SA,Aircraft manufacturing,Private,Total benefits,CIS2033211000000I
+SA,Aircraft manufacturing,Private,Total benefits,CIS2033211000000Q
+SA,All workers,Government,Total compensation,CIS3010000000000I
+SA,All workers,Government,Total compensation,CIS3010000000000Q
+SA,Education and health services,Government,Total compensation,CIS3016000000000I
+SA,Education and health services,Government,Total compensation,CIS3016000000000Q
+SA,Education services,Government,Total compensation,CIS3016100000000I
+SA,Education services,Government,Total compensation,CIS3016100000000Q
+SA,Schools,Government,Total compensation,CIS3016105000000I
+SA,Schools,Government,Total compensation,CIS3016105000000Q
+SA,Elementary and secondary schools,Government,Total compensation,CIS3016110000000I
+SA,Elementary and secondary schools,Government,Total compensation,CIS3016110000000Q
+SA,Health care and social assistance,Government,Total compensation,CIS3016200000000I
+SA,Health care and social assistance,Government,Total compensation,CIS3016200000000Q
+SA,Hospitals,Government,Total compensation,CIS3016220000000I
+SA,Hospitals,Government,Total compensation,CIS3016220000000Q
+SA,Public administration,Government,Total compensation,CIS3019200000000I
+SA,Public administration,Government,Total compensation,CIS3019200000000Q
+SA,All workers,Government,Wages and salaries,CIS3020000000000I
+SA,All workers,Government,Wages and salaries,CIS3020000000000Q
+SA,Education and health services,Government,Wages and salaries,CIS3026000000000I
+SA,Education and health services,Government,Wages and salaries,CIS3026000000000Q
+SA,Education services,Government,Wages and salaries,CIS3026100000000I
+SA,Education services,Government,Wages and salaries,CIS3026100000000Q
+SA,Schools,Government,Wages and salaries,CIS3026105000000I
+SA,Schools,Government,Wages and salaries,CIS3026105000000Q
+SA,Elementary and secondary schools,Government,Wages and salaries,CIS3026110000000I
+SA,Elementary and secondary schools,Government,Wages and salaries,CIS3026110000000Q
+SA,Health care and social assistance,Government,Wages and salaries,CIS3026200000000I
+SA,Health care and social assistance,Government,Wages and salaries,CIS3026200000000Q
+SA,Hospitals,Government,Wages and salaries,CIS3026220000000I
+SA,Hospitals,Government,Wages and salaries,CIS3026220000000Q
+SA,Public administration,Government,Wages and salaries,CIS3029200000000I
+SA,Public administration,Government,Wages and salaries,CIS3029200000000Q
+SA,All workers,Government,Total benefits,CIS3030000000000I
+SA,All workers,Government,Total benefits,CIS3030000000000Q
+NSA,All workers,Civilian,Total compensation,CIU1010000000000A
+NSA,All workers,Civilian,Total compensation,CIU1010000000000I
+NSA,All workers,Civilian,Total compensation,CIU1010000000000Q
+NSA,"All workers, excluding incentive paid",Civilian,Total compensation,CIU1010000000710A
+NSA,"All workers, excluding incentive paid",Civilian,Total compensation,CIU1010000000710I
+NSA,"All workers, excluding incentive paid",Civilian,Total compensation,CIU1010000000710Q
+NSA,"Management, professional, and related",Civilian,Total compensation,CIU1010000100000A
+NSA,"Management, professional, and related",Civilian,Total compensation,CIU1010000100000I
+NSA,"Management, professional, and related",Civilian,Total compensation,CIU1010000100000Q
+NSA,"Management, business, and financial",Civilian,Total compensation,CIU1010000110000I
+NSA,"Management, business, and financial",Civilian,Total compensation,CIU1010000110000Q
+NSA,Professional and related,Civilian,Total compensation,CIU1010000120000A
+NSA,Professional and related,Civilian,Total compensation,CIU1010000120000I
+NSA,Professional and related,Civilian,Total compensation,CIU1010000120000Q
+NSA,Sales and office,Civilian,Total compensation,CIU1010000200000A
+NSA,Sales and office,Civilian,Total compensation,CIU1010000200000I
+NSA,Sales and office,Civilian,Total compensation,CIU1010000200000Q
+NSA,Office and administrative support,Civilian,Total compensation,CIU1010000220000A
+NSA,Office and administrative support,Civilian,Total compensation,CIU1010000220000I
+NSA,Office and administrative support,Civilian,Total compensation,CIU1010000220000Q
+NSA,Service occupations,Civilian,Total compensation,CIU1010000300000A
+NSA,Service occupations,Civilian,Total compensation,CIU1010000300000I
+NSA,Service occupations,Civilian,Total compensation,CIU1010000300000Q
+NSA,"Natural resources, construction, and maintenance",Civilian,Total compensation,CIU1010000400000A
+NSA,"Natural resources, construction, and maintenance",Civilian,Total compensation,CIU1010000400000I
+NSA,"Natural resources, construction, and maintenance",Civilian,Total compensation,CIU1010000400000Q
+NSA,"Construction, extraction, farming, fishing, and forestry occupations",Civilian,Total compensation,CIU1010000405000A
+NSA,"Construction, extraction, farming, fishing, and forestry occupations",Civilian,Total compensation,CIU1010000405000I
+NSA,"Construction, extraction, farming, fishing, and forestry occupations",Civilian,Total compensation,CIU1010000405000Q
+NSA,"Production, transportation, and material moving",Civilian,Total compensation,CIU1010000500000A
+NSA,"Production, transportation, and material moving",Civilian,Total compensation,CIU1010000500000I
+NSA,"Production, transportation, and material moving",Civilian,Total compensation,CIU1010000500000Q
+NSA,Production,Civilian,Total compensation,CIU1010000510000A
+NSA,Production,Civilian,Total compensation,CIU1010000510000I
+NSA,Production,Civilian,Total compensation,CIU1010000510000Q
+NSA,Transportation and material moving,Civilian,Total compensation,CIU1010000520000A
+NSA,Transportation and material moving,Civilian,Total compensation,CIU1010000520000I
+NSA,Transportation and material moving,Civilian,Total compensation,CIU1010000520000Q
+NSA,Education and health services,Civilian,Total compensation,CIU1016000000000A
+NSA,Education and health services,Civilian,Total compensation,CIU1016000000000I
+NSA,Education and health services,Civilian,Total compensation,CIU1016000000000Q
+NSA,Elementary and secondary schools,Civilian,Total compensation,CIU1016110000000A
+NSA,Elementary and secondary schools,Civilian,Total compensation,CIU1016110000000I
+NSA,Elementary and secondary schools,Civilian,Total compensation,CIU1016110000000Q
+NSA,"Junior colleges, colleges, and universities",Civilian,Total compensation,CIU1016120000000A
+NSA,"Junior colleges, colleges, and universities",Civilian,Total compensation,CIU1016120000000I
+NSA,"Junior colleges, colleges, and universities",Civilian,Total compensation,CIU1016120000000Q
+NSA,Health care and social assistance,Civilian,Total compensation,CIU1016200000000A
+NSA,Health care and social assistance,Civilian,Total compensation,CIU1016200000000I
+NSA,Health care and social assistance,Civilian,Total compensation,CIU1016200000000Q
+NSA,Hospitals,Civilian,Total compensation,CIU1016220000000A
+NSA,Hospitals,Civilian,Total compensation,CIU1016220000000I
+NSA,Hospitals,Civilian,Total compensation,CIU1016220000000Q
+NSA,Nursing and residential care facilities,Civilian,Total compensation,CIU1016230000000A
+NSA,Nursing and residential care facilities,Civilian,Total compensation,CIU1016230000000I
+NSA,Nursing and residential care facilities,Civilian,Total compensation,CIU1016230000000Q
+NSA,Goods-producing industries,Civilian,Total compensation,CIU101G000000000A
+NSA,Goods-producing industries,Civilian,Total compensation,CIU101G000000000I
+NSA,Goods-producing industries,Civilian,Total compensation,CIU101G000000000Q
+NSA,Service-providing industries,Civilian,Total compensation,CIU101S000000000A
+NSA,Service-providing industries,Civilian,Total compensation,CIU101S000000000I
+NSA,Service-providing industries,Civilian,Total compensation,CIU101S000000000Q
+NSA,All workers,Civilian,Wages and salaries,CIU1020000000000I
+NSA,All workers,Civilian,Wages and salaries,CIU1020000000000Q
+NSA,"All workers, excluding incentive paid",Civilian,Wages and salaries,CIU1020000000710A
+NSA,"All workers, excluding incentive paid",Civilian,Wages and salaries,CIU1020000000710I
+NSA,"All workers, excluding incentive paid",Civilian,Wages and salaries,CIU1020000000710Q
+NSA,"Management, professional, and related",Civilian,Wages and salaries,CIU1020000100000A
+NSA,"Management, professional, and related",Civilian,Wages and salaries,CIU1020000100000I
+NSA,"Management, professional, and related",Civilian,Wages and salaries,CIU1020000100000Q
+NSA,Professional and related,Civilian,Wages and salaries,CIU1020000120000I
+NSA,Professional and related,Civilian,Wages and salaries,CIU1020000120000Q
+NSA,Sales and office,Civilian,Wages and salaries,CIU1020000200000A
+NSA,Sales and office,Civilian,Wages and salaries,CIU1020000200000I
+NSA,Sales and office,Civilian,Wages and salaries,CIU1020000200000Q
+NSA,Office and administrative support,Civilian,Wages and salaries,CIU1020000220000A
+NSA,Office and administrative support,Civilian,Wages and salaries,CIU1020000220000I
+NSA,Office and administrative support,Civilian,Wages and salaries,CIU1020000220000Q
+NSA,Service occupations,Civilian,Wages and salaries,CIU1020000300000A
+NSA,Service occupations,Civilian,Wages and salaries,CIU1020000300000I
+NSA,Service occupations,Civilian,Wages and salaries,CIU1020000300000Q
+NSA,"Construction, extraction, farming, fishing, and forestry occupations",Civilian,Wages and salaries,CIU1020000405000A
+NSA,"Construction, extraction, farming, fishing, and forestry occupations",Civilian,Wages and salaries,CIU1020000405000I
+NSA,"Construction, extraction, farming, fishing, and forestry occupations",Civilian,Wages and salaries,CIU1020000405000Q
+NSA,"Production, transportation, and material moving",Civilian,Wages and salaries,CIU1020000500000A
+NSA,"Production, transportation, and material moving",Civilian,Wages and salaries,CIU1020000500000I
+NSA,"Production, transportation, and material moving",Civilian,Wages and salaries,CIU1020000500000Q
+NSA,Production,Civilian,Wages and salaries,CIU1020000510000A
+NSA,Production,Civilian,Wages and salaries,CIU1020000510000I
+NSA,Production,Civilian,Wages and salaries,CIU1020000510000Q
+NSA,Transportation and material moving,Civilian,Wages and salaries,CIU1020000520000A
+NSA,Transportation and material moving,Civilian,Wages and salaries,CIU1020000520000I
+NSA,Transportation and material moving,Civilian,Wages and salaries,CIU1020000520000Q
+NSA,Education and health services,Civilian,Wages and salaries,CIU1026000000000A
+NSA,Education and health services,Civilian,Wages and salaries,CIU1026000000000I
+NSA,Education and health services,Civilian,Wages and salaries,CIU1026000000000Q
+NSA,Health care and social assistance,Civilian,Wages and salaries,CIU1026200000000A
+NSA,Health care and social assistance,Civilian,Wages and salaries,CIU1026200000000I
+NSA,Health care and social assistance,Civilian,Wages and salaries,CIU1026200000000Q
+NSA,Hospitals,Civilian,Wages and salaries,CIU1026220000000A
+NSA,Hospitals,Civilian,Wages and salaries,CIU1026220000000I
+NSA,Hospitals,Civilian,Wages and salaries,CIU1026220000000Q
+NSA,Nursing and residential care facilities,Civilian,Wages and salaries,CIU1026230000000A
+NSA,Nursing and residential care facilities,Civilian,Wages and salaries,CIU1026230000000I
+NSA,Nursing and residential care facilities,Civilian,Wages and salaries,CIU1026230000000Q
+NSA,All workers,Civilian,Total benefits,CIU1030000000000A
+NSA,All workers,Civilian,Total benefits,CIU1030000000000I
+NSA,All workers,Civilian,Total benefits,CIU1030000000000Q
+NSA,West,Private,Total compensation,CIU2010000000240A
+NSA,West,Private,Total compensation,CIU2010000000240I
+NSA,West,Private,Total compensation,CIU2010000000240Q
+NSA,Pacific,Private,Total compensation,CIU2010000000249I
+NSA,Pacific,Private,Total compensation,CIU2010000000249Q
+NSA,"All workers, excluding incentive paid",Private,Total compensation,CIU2010000000710A
+NSA,"All workers, excluding incentive paid",Private,Total compensation,CIU2010000000710I
+NSA,"All workers, excluding incentive paid",Private,Total compensation,CIU2010000000710Q
+NSA,"Natural resources, construction, and maintenance",Private,Total compensation,CIU2010000400000A
+NSA,"Natural resources, construction, and maintenance",Private,Total compensation,CIU2010000400000I
+NSA,"Natural resources, construction, and maintenance",Private,Total compensation,CIU2010000400000Q
+NSA,"Installation, maintenance, and repair",Private,Total compensation,CIU2010000430000A
+NSA,"Installation, maintenance, and repair",Private,Total compensation,CIU2010000430000I
+NSA,"Installation, maintenance, and repair",Private,Total compensation,CIU2010000430000Q
+NSA,"Production, transportation, and material moving; excluding incentive paid",Private,Total compensation,CIU2010000500710A
+NSA,"Production, transportation, and material moving; excluding incentive paid",Private,Total compensation,CIU2010000500710I
+NSA,"Production, transportation, and material moving; excluding incentive paid",Private,Total compensation,CIU2010000500710Q
+NSA,Production,Private,Total compensation,CIU2010000510000A
+NSA,Production,Private,Total compensation,CIU2010000510000I
+NSA,Production,Private,Total compensation,CIU2010000510000Q
+NSA,Transportation and material moving,Private,Total compensation,CIU2010000520000A
+NSA,Transportation and material moving,Private,Total compensation,CIU2010000520000I
+NSA,Transportation and material moving,Private,Total compensation,CIU2010000520000Q
+NSA,"Union, manufacturing",Private,Total compensation,CIU2013000000510A
+NSA,"Union, manufacturing",Private,Total compensation,CIU2013000000510I
+NSA,"Union, manufacturing",Private,Total compensation,CIU2013000000510Q
+NSA,"Manufacturing, sales and office occupations",Private,Total compensation,CIU2013000200000A
+NSA,"Manufacturing, sales and office occupations",Private,Total compensation,CIU2013000200000I
+NSA,"Manufacturing, sales and office occupations",Private,Total compensation,CIU2013000200000Q
+NSA,"Manufacturing; production, transportation, and material moving",Private,Total compensation,CIU2013000500000A
+NSA,"Manufacturing; production, transportation, and material moving",Private,Total compensation,CIU2013000500000I
+NSA,"Manufacturing; production, transportation, and material moving",Private,Total compensation,CIU2013000500000Q
+NSA,Aircraft manufacturing,Private,Total compensation,CIU2013211000000A
+NSA,Aircraft manufacturing,Private,Total compensation,CIU2013211000000I
+NSA,Aircraft manufacturing,Private,Total compensation,CIU2013211000000Q
+NSA,"Trade, transportation, and utilities; excluding incentive paid",Private,Total compensation,CIU2014000000710A
+NSA,"Trade, transportation, and utilities; excluding incentive paid",Private,Total compensation,CIU2014000000710I
+NSA,"Trade, transportation, and utilities; excluding incentive paid",Private,Total compensation,CIU2014000000710Q
+NSA,Utilities,Private,Total compensation,CIU2014400000000A
+NSA,Utilities,Private,Total compensation,CIU2014400000000I
+NSA,Utilities,Private,Total compensation,CIU2014400000000Q
+NSA,Professional and business services,Private,Total compensation,CIU201540A000000A
+NSA,Professional and business services,Private,Total compensation,CIU201540A000000I
+NSA,Professional and business services,Private,Total compensation,CIU201540A000000Q
+NSA,Health care and social assistance,Private,Total compensation,CIU2016200000000A
+NSA,Health care and social assistance,Private,Total compensation,CIU2016200000000I
+NSA,Leisure and hospitality,Private,Total compensation,CIU2017000000000A
+NSA,Leisure and hospitality,Private,Total compensation,CIU2017000000000I
+NSA,Leisure and hospitality,Private,Total compensation,CIU2017000000000Q
+NSA,"Other services, except public administration",Private,Total compensation,CIU2018100000000A
+NSA,"Other services, except public administration",Private,Total compensation,CIU2018100000000I
+NSA,"Other services, except public administration",Private,Total compensation,CIU2018100000000Q
+NSA,Goods-producing industries,Private,Total compensation,CIU201G000000000A
+NSA,Goods-producing industries,Private,Total compensation,CIU201G000000000I
+NSA,Goods-producing industries,Private,Total compensation,CIU201G000000000Q
+NSA,"Union, goods-producing industries",Private,Total compensation,CIU201G000000510A
+NSA,"Union, goods-producing industries",Private,Total compensation,CIU201G000000510I
+NSA,"Union, goods-producing industries",Private,Total compensation,CIU201G000000510Q
+NSA,"Goods-producing, sales and office occupations",Private,Total compensation,CIU201G000200000A
+NSA,"Goods-producing, sales and office occupations",Private,Total compensation,CIU201G000200000I
+NSA,"Goods-producing, sales and office occupations",Private,Total compensation,CIU201G000200000Q
+NSA,Service-providing industries,Private,Total compensation,CIU201S000000000A
+NSA,Service-providing industries,Private,Total compensation,CIU201S000000000I
+NSA,Service-providing industries,Private,Total compensation,CIU201S000000000Q
+NSA,"Union, service-providing industries",Private,Total compensation,CIU201S000000510A
+NSA,"Union, service-providing industries",Private,Total compensation,CIU201S000000510I
+NSA,"Union, service-providing industries",Private,Total compensation,CIU201S000000510Q
+NSA,"Service-providing; production, transportation, and material moving",Private,Total compensation,CIU201S000500000A
+NSA,"Service-providing; production, transportation, and material moving",Private,Total compensation,CIU201S000500000I
+NSA,"Service-providing; production, transportation, and material moving",Private,Total compensation,CIU201S000500000Q
+NSA,All workers,Private,Wages and salaries,CIU2020000000000A
+NSA,All workers,Private,Wages and salaries,CIU2020000000000I
+NSA,All workers,Private,Wages and salaries,CIU2020000000000Q
+NSA,East North Central,Private,Wages and salaries,CIU2020000000233I
+NSA,East North Central,Private,Wages and salaries,CIU2020000000233Q
+NSA,West,Private,Wages and salaries,CIU2020000000240I
+NSA,West,Private,Wages and salaries,CIU2020000000240Q
+NSA,Pacific,Private,Wages and salaries,CIU2020000000249A
+NSA,Pacific,Private,Wages and salaries,CIU2020000000249I
+NSA,Pacific,Private,Wages and salaries,CIU2020000000249Q
+NSA,Construction,Private,Wages and salaries,CIU2022300000000A
+NSA,Construction,Private,Wages and salaries,CIU2022300000000I
+NSA,Construction,Private,Wages and salaries,CIU2022300000000Q
+NSA,"Manufacturing, sales and office occupations",Private,Wages and salaries,CIU2023000200000A
+NSA,"Manufacturing, sales and office occupations",Private,Wages and salaries,CIU2023000200000I
+NSA,"Manufacturing, sales and office occupations",Private,Wages and salaries,CIU2023000200000Q
+NSA,"Wholesale trade, excluding incentive paid occupations",Private,Wages and salaries,CIU2024110000710A
+NSA,"Wholesale trade, excluding incentive paid occupations",Private,Wages and salaries,CIU2024110000710I
+NSA,"Wholesale trade, excluding incentive paid occupations",Private,Wages and salaries,CIU2024110000710Q
+NSA,"Credit intermediation and related, excluding incentive paid",Private,Wages and salaries,CIU2025220000710A
+NSA,"Credit intermediation and related, excluding incentive paid",Private,Wages and salaries,CIU2025220000710I
+NSA,"Credit intermediation and related, excluding incentive paid",Private,Wages and salaries,CIU2025220000710Q
+NSA,Real estate and rental and leasing,Private,Wages and salaries,CIU2025300000000A
+NSA,Real estate and rental and leasing,Private,Wages and salaries,CIU2025300000000I
+NSA,Real estate and rental and leasing,Private,Wages and salaries,CIU2025300000000Q
+NSA,Administrative and support and waste management and remediation services,Private,Wages and salaries,CIU2025600000000A
+NSA,Administrative and support and waste management and remediation services,Private,Wages and salaries,CIU2025600000000I
+NSA,Administrative and support and waste management and remediation services,Private,Wages and salaries,CIU2025600000000Q
+NSA,"Goods-producing; management, professional, and related occupations",Private,Wages and salaries,CIU202G000100000A
+NSA,"Goods-producing; management, professional, and related occupations",Private,Wages and salaries,CIU202G000100000I
+NSA,"Goods-producing, sales and office occupations",Private,Wages and salaries,CIU202G000200000A
+NSA,"Goods-producing, sales and office occupations",Private,Wages and salaries,CIU202G000200000I
+NSA,"Goods-producing, sales and office occupations",Private,Wages and salaries,CIU202G000200000Q
+NSA,All workers,Private,Total benefits,CIU2030000000000A
+NSA,All workers,Private,Total benefits,CIU2030000000000I
+NSA,All workers,Private,Total benefits,CIU2030000000000Q
+NSA,All union workers,Private,Total benefits,CIU2030000000510A
+NSA,All union workers,Private,Total benefits,CIU2030000000510I
+NSA,All union workers,Private,Total benefits,CIU2030000000510Q
+NSA,"Natural resources, construction, and maintenance",Private,Total benefits,CIU2030000400000A
+NSA,"Natural resources, construction, and maintenance",Private,Total benefits,CIU2030000400000I
+NSA,"Natural resources, construction, and maintenance",Private,Total benefits,CIU2030000400000Q
+NSA,Manufacturing,Private,Total benefits,CIU2033000000000A
+NSA,Manufacturing,Private,Total benefits,CIU2033000000000I
+NSA,Manufacturing,Private,Total benefits,CIU2033000000000Q
+NSA,Aircraft manufacturing,Private,Total benefits,CIU2033211000000A
+NSA,Aircraft manufacturing,Private,Total benefits,CIU2033211000000I
+NSA,Aircraft manufacturing,Private,Total benefits,CIU2033211000000Q
+NSA,All workers,Government,Total compensation,CIU3010000000000A
+NSA,All workers,Government,Total compensation,CIU3010000000000I
+NSA,All workers,Government,Total compensation,CIU3010000000000Q
+NSA,"Management, professional, and related",Government,Total compensation,CIU3010000100000A
+NSA,"Management, professional, and related",Government,Total compensation,CIU3010000100000I
+NSA,"Management, professional, and related",Government,Total compensation,CIU3010000100000Q
+NSA,Professional and related,Government,Total compensation,CIU3010000120000A
+NSA,Professional and related,Government,Total compensation,CIU3010000120000I
+NSA,Professional and related,Government,Total compensation,CIU3010000120000Q
+NSA,Sales and office,Government,Total compensation,CIU3010000200000A
+NSA,Office and administrative support,Government,Total compensation,CIU3010000220000A
+NSA,Office and administrative support,Government,Total compensation,CIU3010000220000I
+NSA,Office and administrative support,Government,Total compensation,CIU3010000220000Q
+NSA,Service occupations,Government,Total compensation,CIU3010000300000A
+NSA,Service occupations,Government,Total compensation,CIU3010000300000I
+NSA,Service occupations,Government,Total compensation,CIU3010000300000Q
+NSA,Education and health services,Government,Total compensation,CIU3016000000000A
+NSA,Education and health services,Government,Total compensation,CIU3016000000000I
+NSA,Education and health services,Government,Total compensation,CIU3016000000000Q
+NSA,Health care and social assistance,Government,Total compensation,CIU3016200000000A
+NSA,Hospitals,Government,Total compensation,CIU3016220000000A
+NSA,Hospitals,Government,Total compensation,CIU3016220000000I
+NSA,Hospitals,Government,Total compensation,CIU3016220000000Q
+NSA,"Management, professional, and related",Government,Wages and salaries,CIU3020000100000A
+NSA,"Management, professional, and related",Government,Wages and salaries,CIU3020000100000I
+NSA,"Management, professional, and related",Government,Wages and salaries,CIU3020000100000Q
+NSA,Professional and related,Government,Wages and salaries,CIU3020000120000A
+NSA,Professional and related,Government,Wages and salaries,CIU3020000120000I
+NSA,Professional and related,Government,Wages and salaries,CIU3020000120000Q
+NSA,Education and health services,Government,Wages and salaries,CIU3026000000000A
+NSA,Education and health services,Government,Wages and salaries,CIU3026000000000I
+NSA,Education and health services,Government,Wages and salaries,CIU3026000000000Q
+NSA,Hospitals,Government,Wages and salaries,CIU3026220000000A
+NSA,Hospitals,Government,Wages and salaries,CIU3026220000000I
+NSA,Hospitals,Government,Wages and salaries,CIU3026220000000Q
+NSA,All workers,Government,Total benefits,CIU3030000000000A
+NSA,All workers,Government,Total benefits,CIU3030000000000I
+NSA,All workers,Government,Total benefits,CIU3030000000000Q
+NSA,"Los Angeles-Long Beach-Riverside, CA CSA",Private,Total compensation,NA
+NSA,"Los Angeles-Long Beach-Riverside, CA CSA",Private,Wages and salaries,NA
+NSA,"Miami-Fort Lauderdale-Pompano Beach, FL MSA",Private,Wages and salaries,NA
+NSA,"Minneapolis-St. Paul-St. Cloud, MN-WI CSA",Private,Wages and salaries,NA
+NSA,"Boston-Worcester-Manchester, MA-NH CSA",Private,Wages and salaries,NA
+NSA,"Atlanta-Sandy Springs-Gainesville, GA-AL CSA",Private,Total compensation,NA
+NSA,"San Jose-San Francisco-Oakland, CA CSA",Private,Total compensation,NA
