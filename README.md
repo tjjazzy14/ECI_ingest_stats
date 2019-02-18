@@ -1,6 +1,6 @@
 # ECI_ingest_stats using Python and pandas library
-Goal: Acquire ECI and occupation data, ingest it, and provide quick statistics using Python
-This is a Data Science excercise 
+Goal: Acquire ECI and occupation data, ingest it, clean it, and provide quick statistics using Python
+*This is a Data Science excercise to Automate the boring stuff - or better know as: "the stuff I have been doing manually as an Analyst".
 # DATA Science Workflow:
 1. Acquire - Open Source Gov Data
 2. Prepare - Cleaning the headings in the Occupation data xcel. Note: How to read the desired sheet in a multisheet xcel file? Had to move the sheet to the front.
